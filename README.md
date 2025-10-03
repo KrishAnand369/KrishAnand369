@@ -40,10 +40,16 @@ Email Me 👉 ✉️ **krishanand369@gmail.com** For Collaboration/Project or An
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=KrishAnand369&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
+![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=perisicnikola37)
+<!--![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=KrishAnand369&style=for-the-badge) -->
+![Invisible view counter](https://komarev.com/ghpvc/?username=KrishAnand369&style=for-the-badge&label=%20&color=FFFFFF&base=0)
+<img src="https://komarev.com/ghpvc/?username=KrishAnand369&label=%20" style="width:1px; height:1px;" />
+
+
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=KrishAnand369&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+<!-- ![](https://github-readme-stats.vercel.app/api?username=KrishAnand369&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/> -->
 ![](https://nirzak-streak-stats.vercel.app/?user=KrishAnand369&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=KrishAnand369&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<!-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=KrishAnand369&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact) -->
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
