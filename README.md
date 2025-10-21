@@ -15,7 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # 💫 Hi 👋, I'm B S Krishnanand
-**A passionate Software Developer**
+**👤 A Passionate Software Developer | Problem Solver | Tech Enthusiast**
+
+💡 I enjoy building scalable applications, exploring new technologies, and contributing to open-source projects.
+I believe in writing clean, efficient, and maintainable code that makes a real-world impact.
+
 
 Email Me 👉 ✉️ **krishanand369@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
