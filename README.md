@@ -1,63 +1,83 @@
+# 👋 Hi, I'm B S Krishnanand
 
+### Software Developer | Java Backend Development | Embedded Systems Enthusiast
 
-<!--
-**KrishAnand369/KrishAnand369** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a software developer with professional experience in Java
+and Spring Boot backend development, currently expanding my
+knowledge into Embedded Systems and Firmware Development.
 
-Here are some ideas to get you started:
+I enjoy understanding how software works beneath the surface,
+building practical applications, solving engineering problems,
+and continuously learning new technologies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-# 💫 Hi 👋, I'm B S Krishnanand
-**👤 A Passionate Software Developer | Problem Solver | Tech Enthusiast**
+My interests span two areas of software engineering:
 
-💡 I enjoy building scalable applications, exploring new technologies, and contributing to open-source projects.
-I believe in writing clean, efficient, and maintainable code that makes a real-world impact.
+- **Backend Development:** Building REST APIs, business applications,
+  and maintainable backend systems using Java and Spring Boot.
+- **Embedded Systems:** Exploring low-level programming,
+  microcontrollers, firmware development, and hardware-software interaction.
 
+I'm passionate about learning through hands-on projects and
+turning theoretical concepts into working solutions.
 
-Email Me 👉 ✉️ **krishanand369@gmail.com** For Collaboration/Project or Anything Else. 😊😊
+---
 
-<!--- 🔭 **I’m currently working on:** Enter your project info here 
-- 🌱 **I’m currently learning:** Enter your tech here
-- 👯 **I’m looking to collaborate on:** Enter your project name and info
-- 🤔 **I’m looking for help with:** Your project here
-- 💬 **Ask me about:** Collaboration, Tech Support
-- 📫 **How to reach me:** Enter your email here
-- 😄 **Pronouns:** Imran Sir
-- ⚡ **Fun fact:** I Love Tech and Tech Love Me -->
+## 🚀 Currently Exploring
 
-<!-- Snake Game Repo View -->
+- Embedded C Programming
+- Microcontrollers and Embedded Systems
+- Firmware Development
+- Hardware-Software Interaction
+- Java & Spring Boot
+- Software Design Principles and Clean Architecture
 
-<div align="center">
-  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
-</div>
+---
 
-# 💻 Tech Stack:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) 
+## 💻 Technology Stack
 
-## 🏆 GitHub Trophies 
-![](https://github-profile-trophy.vercel.app/?username=KrishAnand369&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+### Backend Development
 
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
+### Embedded Systems
 
-# 📊 GitHub Stats:
-<!-- ![](https://github-readme-stats.vercel.app/api?username=KrishAnand369&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/> -->
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 
-![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=KrishAnand369)<br>
-![](https://nirzak-streak-stats.vercel.app/?user=KrishAnand369&theme=dark&hide_border=false)
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=KrishAnand369&limit=5&theme=dark&combine_all_yearly_contributions=true) <br>
+---
 
-<!-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=KrishAnand369&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact) -->
+## 📂 Projects
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+I'm interested in building practical projects across
+backend development and embedded systems.
 
+Check out my repositories for projects, experiments,
+and ongoing learning.
 
+---
 
+## 📊 GitHub Statistics
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=KrishAnand369&theme=transparent&hide_border=true&show_icons=true)
+
+![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=KrishAnand369&theme=transparent&hide_border=true)
+
+---
+
+## 🏆 GitHub Trophies
+
+![](https://github-profile-trophy.vercel.app/?username=KrishAnand369&theme=flat&no-frame=true&margin-w=4)
+
+---
+
+## 📫 Connect With Me
+
+📧 **Email:** krishanand369@gmail.com
+
+I'm always interested in connecting with developers,
+engineers, and people who enjoy building technology.
