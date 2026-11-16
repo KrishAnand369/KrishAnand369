@@ -25,6 +25,7 @@ turning theoretical concepts into working solutions.
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 </div>
 
+![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=KrishAnand369)<br> 
 ## 🚀 Currently Exploring
 
 - Embedded C Programming
@@ -61,7 +62,8 @@ turning theoretical concepts into working solutions.
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=KrishAnand369&theme=transparent&hide_border=true&show_icons=true)
 
 ![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=KrishAnand369&theme=transparent&hide_border=true)
-
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=KrishAnand369&limit=5&theme=dark&combine_all_yearly_contributions=true) <br>
 
 --- 
 
@@ -69,6 +71,7 @@ turning theoretical concepts into working solutions.
 ![](https://github-profile-trophy.vercel.app/?username=KrishAnand369&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 --- -->
+
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
