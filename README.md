@@ -21,6 +21,9 @@ I'm passionate about learning through hands-on projects and
 turning theoretical concepts into working solutions.
 
 ---
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
 
 ## 🚀 Currently Exploring
 
@@ -49,33 +52,26 @@ turning theoretical concepts into working solutions.
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 
----
 
-## 📂 Projects
-
-I'm interested in building practical projects across
-backend development and embedded systems.
-
-Check out my repositories for projects, experiments,
-and ongoing learning.
 
 ---
 
-## 📊 GitHub Statistics
+<!--  ## 📊 GitHub Statistics
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=KrishAnand369&theme=transparent&hide_border=true&show_icons=true)
 
 ![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=KrishAnand369&theme=transparent&hide_border=true)
 
----
 
-## 🏆 GitHub Trophies
+--- 
 
-![](https://github-profile-trophy.vercel.app/?username=KrishAnand369&theme=flat&no-frame=true&margin-w=4)
+## 🏆 GitHub Trophies 
+![](https://github-profile-trophy.vercel.app/?username=KrishAnand369&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
----
+--- -->
 
-## 📫 Connect With Me
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 📧 **Email:** krishanand369@gmail.com
 
